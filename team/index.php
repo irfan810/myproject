@@ -6,8 +6,6 @@
 </head>
 <body>
  
-	<h1>Halaman Login </br> Black-4rT.Team</h1>
-
 	<?php 
 	if(isset($_GET['pesan'])){
 		if($_GET['pesan']=="gagal"){
@@ -17,7 +15,7 @@
 	?>
  
 	<div class="kotak_login">
-		<p class="tulisan_login">Silahkan login</p>
+		<p class="tulisan_login">Silahkan login @Black-4rT</p>
  
 		<form action="cek_login.php" method="post">
 			<label>Username</label>
