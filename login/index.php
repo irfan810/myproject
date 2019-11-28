@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Contoh Form Login</title>
+        <title>Form Login untuk anggota</title>
         <link href="css/main.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
