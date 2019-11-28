@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Form Login untuk anggota</title>
+        <title>Form Login untuk anggota BLACK ART</title>
         <link href="css/main.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
